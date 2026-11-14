@@ -1,1 +1,12 @@
-[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"ir.libranote.app","sha256_cert_fingerprints":["AE:E2:21:20:2D:B8:61:70:AF:95:2B:1C:C1:00:72:EC:BA:27:A0:8A:D5:B1:AB:94:90:20:67:B4:33:84:4D:73"]}}]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ir.libranote.app",
+      "sha256_cert_fingerprints": [
+        "AE:E2:21:20:2D:B8:61:70:AF:95:2B:1C:C1:00:72:EC:BA:27:A0:8A:D5:B1:AB:94:90:20:67:B4:33:84:4D:73"
+      ]
+    }
+  }
+]
